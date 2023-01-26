@@ -1,0 +1,19 @@
+{
+    "links": [
+      {
+        "title": "HTML Games",
+        "games": [
+          ["Cookie Clicker", "https://lioxryt.github.io/other/cookie/img/cookie.jpg", "/gamez/cookie/"],
+          ["Dino Run", "/gamez/img/dinorun.png", "/gamez/dino/"],
+          ["Stickman Hook", "/gamez/img/stickman.png", "/gamez/hook/"]
+        ]
+      },
+      {
+        "title": "Blocked Sites",
+        "games": [
+          ["Interstellar", "https://alienhub.xyz/wp-content/uploads/2022/11/Premium-Kible7-199-2.png", "/gamez/interstellar/"],
+          ["Shit-Hell", "/gamez/img/SHIT.png", "/gamez/kahoothill/"],
+        ]
+      }
+    ]
+  }
